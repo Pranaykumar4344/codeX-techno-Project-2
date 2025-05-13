@@ -32,7 +32,7 @@ The dataset is available on Kaggle. You can download it here:
 
    ```bash
    git clone https://github.com/Pranaykumar4344/codeX-techno-Project-2
-   cd data-analysis.py
+   cd codeX-techno-Project-2
    ```
 
 2. Download the dataset from Kaggle and save it as `global_unemployment_data.csv` in the same folder.
