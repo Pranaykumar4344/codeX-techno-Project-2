@@ -1,7 +1,3 @@
-Sure! Here’s a more creative and engaging README for your **Unemployment Analysis using Python** project, inspired by your example:
-
----
-
 # 📊 Unemployment Analysis using Python 🚀
 
 This project aims to uncover valuable insights about **global unemployment trends** using data analysis and visualization techniques in Python. By analyzing unemployment data from 2014 to 2024, the project provides a deep dive into the state of unemployment across various countries, gender differences, and age groups.
@@ -35,39 +31,24 @@ The dataset is available on Kaggle. You can download it here:
 1. Clone the repository:
 
    ```bash
-   git clone <repository_link>
-   cd <your_project_directory>
+   git clone https://github.com/Pranaykumar4344/codeX-techno-Project-2
+   cd data-analysis.py
    ```
 
-2. Install the required packages:
+2. Download the dataset from Kaggle and save it as `global_unemployment_data.csv` in the same folder.
+
+3. Run the Python script:
 
    ```bash
-   pip install -r requirements.txt
+   python data-analysis.py
    ```
-
-3. Download the dataset from Kaggle and save it as `global_unemployment_data.csv` in the same folder.
-
-4. Run the Python script:
-
-   ```bash
-   python unemployment_analysis.py
-   ```
-
----
-
-### 🌐 2. Open in Browser (Streamlit Hosted App)
-
-▶ Click Here to View the Live App (Coming soon!)
-
----
 
 ## 📁 Files
 
 * **unemployment\_analysis.py** – Main Python script performing the analysis and visualization
-* **requirements.txt** – List of Python libraries required for the project
 * **global\_unemployment\_data.csv** – Dataset used for analysis
 * **README.md** – Project description
-* **graphs/** – Folder containing all the generated visualizations in PNG format
+* **Results/** – Folder containing all the generated visualizations in PNG format
 
 ---
 
@@ -77,9 +58,6 @@ The dataset is available on Kaggle. You can download it here:
 * **Pandas**: For data manipulation and analysis
 * **Matplotlib**: For creating visualizations and graphs
 * **Seaborn**: For statistical data visualization
-* **Streamlit**: For developing a web app (optional)
-* **Jupyter Notebook** (optional): For interactive development and testing
-
 ---
 
 ## 🏁 Output Preview
@@ -93,8 +71,7 @@ The dataset is available on Kaggle. You can download it here:
 
 ## 📣 Acknowledgements
 
-This project is part of my data science journey to analyze real-world issues such as unemployment and present actionable insights. It demonstrates the power of **Python**, **data analysis**, and **visualization** to drive understanding and decision-making.
-
+This project is a part of my internship under CodeX Techno, where I worked on analyzing real-world issues such as unemployment. It showcases the power of Python, data analysis, and visualization to drive understanding and actionable insights for better decision-making.
 ---
 
 ## 🎯 Goal & Conclusion
@@ -103,9 +80,7 @@ The goal of this project is to provide a deeper understanding of **global unempl
 
 ---
 
-**🔗 LinkedIn Post**
-**🔗 GitHub Repository**
+**🔗 [LinkedIn Post](https://www.linkedin.com/posts/janapareddi-pranay-kumar-5897a828a_codextechno-internshipexperience-datascience-activity-7327997072081616896-tZZP?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEY9lzkBtrDBrHOlJ2NjqFiMRVFKNiHONCI)**
+**🔗 [GitHub Repository](https://github.com/Pranaykumar4344/codeX-techno-Project-2)**
 
 ---
-
-Feel free to tweak this according to your specific needs and make it more personalized!
